@@ -1,0 +1,9 @@
+numpy
+ultralytics
+opencv-python
+opencv-contrib-python
+pillow
+onnxruntime
+tqdm
+streamlit
+pytesseract
