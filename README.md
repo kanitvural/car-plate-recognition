@@ -58,13 +58,6 @@ pip install -r requirements.txt
 
 ```
 
-## Download the models
-
-* Download the YOLOv8 plate detection model: [plate_detection.pt](https://github.com/kanitvural/car-plate-recognition/blob/main/models/plate_detection.pt)
-
-* Download the custom character recognition model: [plate_reading.pt](https://github.com/kanitvural/car-plate-recognition/blob/main/models/plate_reading.pt)
-
-
 Place these models in the ./models/ directory.
 
 ## Usage
